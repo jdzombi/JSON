@@ -1,13 +1,31 @@
 {
     "a": [
         "triple backflipped", 
-        "quadruple frontflipped"],
+        "quadruple frontflipped",
+	"half-heartedly dove",
+	"politely stepped",
+	"angrily jumped",
+	"suddenly teleported",
+	"thought about getting",
+	"fell through the floor",
+	"haphazardly stumbled"
+
+    ],
     "b": [
         "into a Maserati", 
-        "into a Ferrari"
+        "into a Ferrari",
+	"into a Clown Car",
+	"into an oversized shoe",
+	"into a hot-tub time machine",
+	"into bed"
     ],
     "c": [ 
         "for a joyride", 
-        "to escape from the crime scene"
+        "to escape from the crime scene",
+	"in an attempt to flee the universe",
+	"with some hot anime babes",
+	"full of toxic slime",
+	"to cry themselves to sleep"
+	
     ]
 }
