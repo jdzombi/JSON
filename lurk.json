@@ -1,5 +1,7 @@
 {
     "a": [
+        "backflipped", 
+        "double backflipped", 
         "triple backflipped", 
         "quadruple frontflipped",
 	"half-heartedly dove",
@@ -28,12 +30,14 @@
 	"into the DANGER ZONE",
 	"into international waters",
 	"right through the wall",
-	"into Skyrim"
+	"into Skyrim", 
+        "into the wild west" 
     ],
     "c": [ 
         "for a joyride", 
         "to escape from the crime scene",
 	"in an attempt to flee the universe",
+        "to adopt a fluffy kitten", 
 	"with some hot anime babes",
 	"with some hot anime hunks",
 	"full of toxic slime",
